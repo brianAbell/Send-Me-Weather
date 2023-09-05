@@ -1,0 +1,6 @@
+    requests - For making HTTP requests.
+    twilio - For sending text messages using the Twilio API.
+    schedule - For scheduling tasks.
+
+    NOTE: did not use venv, so just listed requirements. Code is
+          simple enough that any version should work for ea
